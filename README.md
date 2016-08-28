@@ -1,5 +1,7 @@
 ﻿## Synopsis
 
+[![Magma](https://github.com/another-guy/Magma/raw/master/Magma.png)](https://github.com/another-guy/Magma)
+
 Provides helpers for AspNetCore WebApi services
 
 ## Code Example
