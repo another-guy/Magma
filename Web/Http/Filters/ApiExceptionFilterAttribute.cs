@@ -10,7 +10,7 @@ namespace Magma.Web.Http.Filters
         public override void OnException(ExceptionContext context)
         {
             var exception = context.Exception;
-            
+
             if (exception is HttpException)
                 HandleHttpException(context, exception);
             else if (exception is InvalidModelStateException)
