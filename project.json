@@ -6,6 +6,7 @@
   "copyright": "MIT",
   "packOptions": {
     "licenseUrl": "https://raw.githubusercontent.com/another-guy/Magma/master/LICENSE.txt",
+    "iconUrl": "https://raw.githubusercontent.com/another-guy/Magma/master/Magma.png",
     "tags": [ "WebApi", "AspNetCore" ],
     "repository": {
       "type": "git",
