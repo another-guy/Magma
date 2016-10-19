@@ -1,6 +1,6 @@
 {
   "title": "Magma",
-  "version": "1.0.1-*",
+  "version": "1.0.2-*",
   "description": "Provides helpers for AspNetCore WebApi services",
   "authors": [ "Igor Soloydenko" ],
   "copyright": "MIT",
